@@ -10,21 +10,17 @@ This popular game reinforces players to have a better eye-hand coordination.
 
 To score :point_up: points, the Player needs to **cross the road while avoiding the moving Enemies**. 
 
-## To Start Playing
-
-	- Click this [link ...](https://codepen.io/minion2015/full/BPRpLE/)
-	
-	- Or you may download the zip file and open the index.html to run the game
+## Click [here](https://rrcanlas.github.io/ArcAde-gAme/) to Start Playing
 
 ## Directions for the Game 
 
-	- Press :arrow_up: Up, :arrow_down: Down, :arrow_left: Left or :arrow_right: Right on the Keyboard to move the player.
+- Press :arrow_up: Up, :arrow_down: Down, :arrow_left: Left or :arrow_right: Right on the Keyboard to move the player.
 
-	- **Avoid** hitting the Enemy /play dangerzone.
+- **Avoid** hitting the Enemy /play dangerzone.
 
-	- Keep on going :arrow_up: up to reach the river and score points. 
+- Keep on going :arrow_up: up to reach the river and score points. 
 
-	- Upon :scream: collision of the player and the enemy, score points **resets to :zero:**. 
+- Upon :scream: collision of the player and the enemy, score points **resets to :zero:**. 
 
 ## Building Out the Games Functionality
 
